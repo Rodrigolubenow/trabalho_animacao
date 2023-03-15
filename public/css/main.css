@@ -5,7 +5,7 @@
     width: 209px;
     height: 208px;
     border-radius: 50%;
-    background-color: #dac8c88e;
+    background-color: #000;
     border: 1px solid black;
     display: flex;
     flex-direction: column;
@@ -71,7 +71,6 @@
 .content-container h1 span {
     font-size: 1.5rem;
     font-weight: 200;
-    /* transform: translateY(30px); */
     color: #fff;
 }
 
